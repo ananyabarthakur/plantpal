@@ -1,6 +1,6 @@
-🌱 PlantPal - AI-Powered Plant Care Companion
+ PlantPal - AI-Powered Plant Care Companion
 PlantPal is a React-based web application that helps you identify plants and get personalized care advice using AI. Simply upload a photo of your plant to get instant identification and detailed care instructions, or chat with the AI assistant for help with plant problems.
-✨ Features
+Features
 
 Plant Identification: Upload photos to identify plants using AI vision
 Care Instructions: Get detailed, personalized care guides for your plants
@@ -8,7 +8,7 @@ Interactive Chat: Ask questions about plant care and get expert advice
 Offline Mode: Basic plant identification and care advice when APIs aren't available
 Responsive Design: Works seamlessly on desktop and mobile devices
 
-🚀 Quick Start
+Quick Start
 Prerequisites
 
 Node.js (version 14 or higher)
